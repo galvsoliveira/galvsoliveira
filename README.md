@@ -1,4 +1,4 @@
-## Oii👋, eu sou o Gustavo. Sou Físico e estou fazendo uma transição de carreira para a área de Data Science 🗃️!
+## Oii👋, eu sou o Gustavo. Sou Físico e estou fazendo uma transição de carreira para Data Science 🗃️!
  🔭 Atualmente eu sou mestrando em Física Atômica e Molecular na USP.
  
  🌱 Estou me aprofundando em Machine Learning e SQL.
