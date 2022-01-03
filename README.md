@@ -25,6 +25,7 @@
  
   ![Snake animation](https://github.com/galvsoliveira/galvsoliveira/blob/output/github-contribution-grid-snake.svg)
  ![](https://komarev.com/ghpvc/?username=galvsoliveira)
+ ![](https://hit.yhype.me/github/profile?user_id=95829723)
 </div>
 
 
