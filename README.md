@@ -1,7 +1,5 @@
 ## Oii👋, eu sou o Gustavo. Sou Físico e estou fazendo uma transição de carreira para Data Science 🗃️!
  🔭 Atualmente estou terminando um mestrado em Física Atômica e Molecular na USP.
- 
- 🌱 Estou me aprofundando em Machine Learning e SQL.
 
 <div align="center">
   <a href="https://github.com/galvsoliveira">
