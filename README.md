@@ -1,4 +1,4 @@
-## Oii👋, eu sou o Gustavo. Sou Físico e estou fazendo uma transição de carreira para Data Science 🗃️!
+## Oii👋, eu sou o Gustavo. Sou Físico e Cientista de Dados Jr.!
 
 <div align="center">
   <a href="https://github.com/galvsoliveira">
