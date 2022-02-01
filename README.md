@@ -1,5 +1,7 @@
 ## Oii👋, eu sou o Gustavo. Sou Físico e Cientista de Dados Jr.!
 
+Sou Físico com sólida formação em matemática, estatística e programação. Concluindo mestrado em Física e desenvolvendo projetos de machine learning em Data Science. Experiência comprovada com análise de dados e visualização de dados em experimentos físicos. Capaz de analisar criticamente gráficos, padrões, extrair insights de dados e escrever relatórios de trabalho em inglês. Proativo, com espírito inovador, ansioso para aplicar meus conhecimentos e aprender, a fim de fornecer soluções de negócios orientadas por dados para sua empresa, para aumentar o lucro e aprimorar a experiência do cliente.
+
 <div align="center">
   <a href="https://github.com/galvsoliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=galvsoliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
