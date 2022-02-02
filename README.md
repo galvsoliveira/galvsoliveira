@@ -5,7 +5,7 @@ Sou Físico com sólida formação em matemática, estatística e programação.
 🗃️Skills:
 - Linguagem: Python, MySQL, MATLAB, Wolfram Mathematica, Fortran.
 - Web Scraping: Python (beautifulsoup).
-- Data Engineering: Docker, MySQL Server, ETL, Airflow, MinIO.
+- Engenheiro de Dados: Docker, MySQL Server, ETL, Airflow, MinIO.
 - Limpeza de Dados & Manipulação: Python (numpy, pandas).
 - Visualização de Dados & Dashboard: Python (matplotlib, seaborn), Power BI.
 - Machine Learning: Métodos de Aprendizado Supervisionado (linear regression, logistic regression, decision trees, KNN, random forests...), Métodos de Aprendizado Não-Supervisionado (kmeans, hierarchical clustering...).
