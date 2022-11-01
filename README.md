@@ -1,4 +1,4 @@
-## Oii👋, eu sou o Gustavo. Sou Físico e Cientista de Dados Jr.!
+## Hi👋, I'm Gustavo. I'm a Physicist MSc and Analytics Engineer.!
 
 👋 Hi! I'm a Physicist (MSc) passionate about problem solving with solid background in mathematics, statistics and programming. Currently working as an Analytics Engineer at Favo. Proven experience with query optimization, data analysis, data visualization, statistical modeling and ETL with Python/Airflow/MATLAB and SQL. Able to critically analyze graphs, patterns, extract insights from data and write work reports in English. Proactive, innovative-minded, eager to apply my knowledge and learn, in order to provide data-driven actionable business solutions for your company to boost profit and lower the costs.
 
