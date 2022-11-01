@@ -1,14 +1,16 @@
 ## Oii👋, eu sou o Gustavo. Sou Físico e Cientista de Dados Jr.!
 
-Sou Físico com sólida formação em matemática, estatística e programação. Concluindo mestrado em Física e desenvolvendo projetos de machine learning em Data Science. Experiência comprovada com análise de dados e visualização de dados em experimentos físicos. Capaz de analisar criticamente gráficos, padrões, extrair insights de dados e escrever relatórios de trabalho em inglês. Proativo, com espírito inovador, ansioso para aplicar meus conhecimentos e aprender, a fim de fornecer soluções de negócios orientadas por dados para sua empresa, para aumentar o lucro e aprimorar a experiência do cliente.
+👋 Hi! I'm a Physicist (MSc) passionate about problem solving with solid background in mathematics, statistics and programming. Currently working as an Analytics Engineer at Favo. Proven experience with query optimization, data analysis, data visualization, statistical modeling and ETL with Python/Airflow/MATLAB and SQL. Able to critically analyze graphs, patterns, extract insights from data and write work reports in English. Proactive, innovative-minded, eager to apply my knowledge and learn, in order to provide data-driven actionable business solutions for your company to boost profit and lower the costs.
 
 🗃️Skills:
-- Linguagem: Python, MySQL, MATLAB, Wolfram Mathematica, Fortran.
-- Web Scraping: Python (beautifulsoup).
-- Engenharia de Dados: Docker, MySQL Server, ETL, Airflow, MinIO.
-- Limpeza de Dados & Manipulação: Python (numpy, pandas).
-- Visualização de Dados & Dashboard: Python (matplotlib, seaborn), Power BI.
-- Machine Learning: Métodos de Aprendizado Supervisionado (linear regression, logistic regression, decision trees, KNN, random forests...), Métodos de Aprendizado Não-Supervisionado (kmeans, hierarchical clustering...).
+- Language: Python, SQL, MATLAB, Wolfram Mathematica, Fortran, LaTeX. 
+- Web Scraping: Python (beautifulsoup, selenium, playwright).
+- Data Engineering: Python, ETL, Airflow, REST API, GraphQL API.
+- Cloud & Data Warehouse: AWS, SQL (Athena, Snowflake), Redash.
+- Data Cleaning & Manipulation: Python (numpy, pandas), SQL (Athena, Snowflake).
+- Data Viz: Python (matplotlib, seaborn), Power BI, Redash.
+- Machine Learning: Supervised Learning Methods (linear regression, logistic regression, decision trees, KNN, random forests...), Unsupervised Learning Methods (kmeans, hierarchical clustering...).
+- WebApp: Streamlit. 
 
 <div align="center">
   <a href="https://github.com/galvsoliveira">
