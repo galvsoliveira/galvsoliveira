@@ -1,16 +1,19 @@
 ## Hi👋, I'm Gustavo. I'm a Physicist MSc and Analytics Engineer!
 
-👋 Hi! I'm a Physicist (MSc) passionate about problem solving with solid background in mathematics, statistics and programming. Currently working as an Analytics Engineer at Favo. Proven experience with query optimization, data analysis, data visualization, statistical modeling and ETL with Python/Airflow/MATLAB and SQL. Able to critically analyze graphs, patterns, extract insights from data and write work reports in English. Proactive, innovative-minded, eager to apply my knowledge and learn, in order to provide data-driven actionable business solutions for your company to boost profit and lower the costs.
+👋 Hi! I’m a Physicist (MSc) who loves solving problems with data. I have 5 years of experience with programming languages, solid background in mathematics and statistics and I actually work as an Analytics Engineer at Favo. There, I optimize queries, analyze data, visualize insights, build statistical models and automate workflows with Python, Airflow, Docker, SQL and Github Actions (CI/CD). I also have been working with web scraping, cloud services, data warehouses and machine learning tools on daily basis. I’m fluent in English and can write clear reports based on data analysis. I’m eager to learn new skills and technologies in order to provide data-driven solutions that boost profit and lower costs for your company.
 
 🗃️Skills:
-- Language: Python, SQL, MATLAB, Wolfram Mathematica, Fortran, LaTeX. 
-- Web Scraping: Python (beautifulsoup, selenium, playwright).
-- Data Engineering: Python, ETL, Airflow, REST API, GraphQL API.
-- Cloud & Data Warehouse: AWS, SQL (Athena, Snowflake), Redash.
-- Data Cleaning & Manipulation: Python (numpy, pandas), SQL (Athena, Snowflake).
-- Data Viz: Python (matplotlib, seaborn), Power BI, Redash.
-- Machine Learning: Supervised Learning Methods (linear regression, logistic regression, decision trees, KNN, random forests...), Unsupervised Learning Methods (kmeans, hierarchical clustering...).
-- WebApp: Streamlit. 
+Language: Python, SQL, MATLAB, Wolfram Mathematica, Fortran, LaTeX.
+Web Scraping: Python (beautifulsoup, selenium, playwright).
+Data Engineering: Python (ETL), Airflow (workflow automation), DBT, Docker, REST API (data integration), GraphQL API (data querying).
+Cloud & Data Warehouse: AWS (cloud computing), SQL (Athena/Snowflake - data storage), Redash and Metabase (data dashboarding).
+Data Cleaning & Manipulation: Python (numpy/pandas - data processing), SQL (Athena/Snowflake - data querying).
+Data Viz: Python (matplotlib/seaborn - data plotting), Power BI/Redash/Metabse (data reporting).
+Machine Learning: Supervised Learning Methods (linear/logistic regression/decision trees/KNN/random forests…), Unsupervised Learning Methods (kmeans/hierarchical clustering…) and NLP.
+
+💭If you can’t do something, start asking the right questions.
+
+If you have any questions or feedback for me please email me at galvsoliveira@gmail.com
 
 <div align="center">
   <a href="https://github.com/galvsoliveira">
