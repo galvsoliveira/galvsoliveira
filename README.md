@@ -1,15 +1,15 @@
-## Hi👋, I'm Gustavo. I'm a Physicist MSc and Analytics Engineer!
+## Hi👋, I'm Gustavo. I'm a MSc Physicist and Analytics Engineer!
 
-👋 Hi! I’m a Physicist (MSc) who loves solving problems with data. I have 5 years of experience with programming languages, solid background in mathematics and statistics and I actually work as an Analytics Engineer at Favo. There, I optimize queries, analyze data, visualize insights, build statistical models and automate workflows with Python, Airflow, Docker, SQL and Github Actions (CI/CD). I also have been working with web scraping, cloud services, data warehouses and machine learning tools on daily basis. I’m fluent in English and can write clear reports based on data analysis. I’m eager to learn new skills and technologies in order to provide data-driven solutions that boost profit and lower costs for your company.
+👋 I’m a Physicist (MSc) with 5 years of programming experience and a strong background in mathematics and statistics. I specialize in writing/optimizing complex SQL queries and building Pipelines with Airflow, Docker, CI/CD and dbt core. I also have expertise in web scraping, cloud services (AWS), data warehouses, and machine learning models. I'm always eager to learn new skills and technologies to deliver data-driven solutions for business teams. 
 
-🗃️Skills:
-Language: Python, SQL, MATLAB, Wolfram Mathematica, Fortran, LaTeX.
-Web Scraping: Python (beautifulsoup, selenium, playwright).
-Data Engineering: Python (ETL), Airflow (workflow automation), DBT, Docker, REST API (data integration), GraphQL API (data querying).
-Cloud & Data Warehouse: AWS (cloud computing), SQL (Athena/Snowflake - data storage), Redash and Metabase (data dashboarding).
-Data Cleaning & Manipulation: Python (numpy/pandas - data processing), SQL (Athena/Snowflake - data querying).
-Data Viz: Python (matplotlib/seaborn - data plotting), Power BI/Redash/Metabse (data reporting).
-Machine Learning: Supervised Learning Methods (linear/logistic regression/decision trees/KNN/random forests…), Unsupervised Learning Methods (kmeans/hierarchical clustering…) and NLP.
+🛠️ Skills:
+- Languages: Python, SQL, MATLAB, Fortran, LaTeX.
+- Web Scraping: Python (beautifulsoup, selenium).
+- Data Engineering: Python (ETL), Airflow, DBT, Docker, REST API, GraphQL API, CI/CD.
+- Cloud and Data Warehouse: AWS, SQL (Athena/Snowflake), Redash and Metabase.
+- Data Manipulation: Python (numpy/pandas), SQL.
+- Data Visualization: Python (matplotlib/seaborn), Power BI/Redash/Metabase.
+- Machine Learning: Python (scikit-learn), NLP, regression, classification, clustering, association.
 
 💭If you can’t do something, start asking the right questions.
 
