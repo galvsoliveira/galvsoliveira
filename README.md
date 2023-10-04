@@ -1,4 +1,4 @@
-## Hi👋, I'm Gustavo. I'm a MSc Physicist and Analytics Engineer!
+## Hi👋, I'm Gustavo. I'm a MSc Physicist and Data Engineer!
 
 👋 I’m a Physicist (MSc) with 5 years of programming experience and a strong background in mathematics and statistics. I specialize in writing/optimizing complex SQL queries and building Pipelines with Airflow, Docker, CI/CD and dbt core. I also have expertise in web scraping, cloud services (AWS), data warehouses, and machine learning models. I'm always eager to learn new skills and technologies to deliver data-driven solutions for business teams. 
 
