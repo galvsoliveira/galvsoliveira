@@ -11,9 +11,9 @@
 - Data Visualization: Python (matplotlib/seaborn), Power BI/Redash/Metabase.
 - Machine Learning: Python (scikit-learn), NLP, regression, classification, clustering, association.
 
-💭If you can’t do something, start asking the right questions.
+💭 If you can’t do something, start asking the right questions.
 
-If you have any questions or feedback for me please email me at galvsoliveira@gmail.com
+If you have any questions or feedback, please email me at g.alvs.oliveira@gmail.com
 
 <div align="center">
   <a href="https://github.com/galvsoliveira">
