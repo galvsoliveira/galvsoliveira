@@ -5,8 +5,8 @@
 🛠️ Skills:
 - Languages: Python, SQL, MATLAB, Fortran, LaTeX.
 - Web Scraping: Python (beautifulsoup, selenium).
-- Data Engineering: Python (ETL), Airflow, DBT, Docker, REST API, GraphQL API, CI/CD.
-- Cloud and Data Warehouse: AWS, SQL (Athena/Snowflake), Redash and Metabase.
+- Data Engineering: Python (ETL), Airflow, DBT, Docker, REST API, GraphQL API, CI/CD, Kafka.
+- Cloud and Data Warehouse: AWS, SQL (Athena/Snowflake), Redash, Metabase, Redshift.
 - Data Manipulation: Python (numpy/pandas), SQL.
 - Data Visualization: Python (matplotlib/seaborn), Power BI/Redash/Metabase.
 - Machine Learning: Python (scikit-learn), NLP, regression, classification, clustering, association.
